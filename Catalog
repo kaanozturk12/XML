@@ -1,0 +1,81 @@
+<CATALOG>
+  <BOOK>
+    <TITLE>Animal Farm</TITLE>
+    <AUTHOR>George Orwell</AUTHOR>
+    <ISBN>9786254071775</ISBN>
+    <YEAR>2021</YEAR>
+    <PUBLISHER>Dorlion Yayınevi</PUBLISHER>
+  </BOOK>
+
+  <BOOK>
+    <TITLE>Chess</TITLE>
+    <AUTHOR>Stefan Zweig</AUTHOR>
+    <ISBN>9786054452613</ISBN>
+    <YEAR>2012</YEAR>
+    <PUBLISHER>Pargamino</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Tales of Space and Time</TITLE>
+    <AUTHOR>Herbert George Wells</AUTHOR>
+    <ISBN>9786257941020</ISBN>
+    <YEAR>2020</YEAR>
+    <PUBLISHER>Platanus Publishing</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Dune Messiah</TITLE>
+    <AUTHOR>Frank Herbet</AUTHOR>
+    <ISBN>9780593098233</ISBN>
+    <YEAR>2019</YEAR>
+    <PUBLISHER>Ace Books</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>How to Stop Time</TITLE>
+    <AUTHOR>Matt Haig</AUTHOR>
+    <ISBN>9781782118640</ISBN>
+    <YEAR>2018</YEAR>
+    <PUBLISHER>Canongate</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>A-71</TITLE>
+    <AUTHOR>Iskender Pala</AUTHOR>
+    <ISBN>9786257706933</ISBN>
+    <YEAR>2021</YEAR>
+    <PUBLISHER>Kapı Yayınları</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Seyir</TITLE>
+    <AUTHOR>Piraye</AUTHOR>
+    <ISBN>9786052182734</ISBN>
+    <YEAR>2019</YEAR>
+    <PUBLISHER>Mona</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>İnsan Geleceğini Nasıl Kurar?</TITLE>
+    <AUTHOR>İlber Ortaylı</AUTHOR>
+    <ISBN>9786258431254</ISBN>
+    <YEAR>2022</YEAR>
+    <PUBLISHER>Kronik Kitap</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Gece Yarısı Kütüphanesi</TITLE>
+    <AUTHOR>Matt Haig</AUTHOR>
+    <ISBN>9786051981833</ISBN>
+    <YEAR>2021</YEAR>
+    <PUBLISHER>Domingo Yayınevi</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Var mısın? - Güçlü Bir Yaşam İçin Öneriler</TITLE>
+    <AUTHOR>Doğan Cüceloğlu</AUTHOR>
+    <ISBN>9786057635839</ISBN>
+    <YEAR>2021</YEAR>
+    <PUBLISHER>Kronik Kitap</PUBLISHER>
+  </BOOK>
+</CATALOG>
